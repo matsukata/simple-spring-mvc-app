@@ -6,4 +6,4 @@
 
 - Implement a simple module with a single end-point;
 - Use jsonObject;
-- Return a list of objects in asc and desc order by demand;
+- Return a list of objects in ascending and descending order by demand;
